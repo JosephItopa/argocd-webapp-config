@@ -19,6 +19,16 @@
 
 ## you can change and delete init password
 
+## Test Automatic Syncing
+
+- change app config repo
+
+- edit deployment.yaml, change version: 1.0 to 1.2;
+
+- change deployment name: 
+
+- change replicas: 2 to 4;
+
 ### Links
 
 
